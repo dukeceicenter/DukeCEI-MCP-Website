@@ -1,0 +1,8 @@
+title: DukeCEI MCP
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Github: https://github.com/dukeceicenter/IoT-MCP-Servers
